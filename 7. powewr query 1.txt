@@ -1,0 +1,15 @@
+Let's practice what we have just learned.
+
+1. Get Data and Transform the spreadsheet "pvtHPAdmins".
+
+2. Oops - it looks like the wrong headers are in the header row. The header row should be the row starting "Date" and "Greater Manchester". Can you get the correct row as headers please?
+
+3. If the computer adds an extra step called "Changed Type", please delete this step.
+
+4. We don't need any blank columns, or the Grand Total column. Please delete them.
+
+5. Can you move the "West Yorkshire" column so that it is the second column.
+
+6. Then please create a visualization based on this data - maybe a stacked column chart? 
+
+You may notice that there are some problems with how the data has been interpreted. So save this query - we will be developing it in the next Practice Activity.

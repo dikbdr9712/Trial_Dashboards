@@ -1,0 +1,35 @@
+This Practice Activity continues from Practice Activity 1. As a reminder, you got data from the spreadsheet "PA - CDs" 
+(from the workbook "PowerBIData"), and added the fields "File extension" and 
+Size.
+
+In this practice activity:
+
+1. Check the default summarization for the "Size" field.
+
+2. Add the "Date created" field into the visualization as well. 
+Put it after the "File extension" but before the "Size" field.
+
+3. Has it created a detailed hierarchy? If so, click on "Date created" 
+in the "Values" well and select "Date created" 
+(instead of "Date hierarchy")
+
+* If it hasn't, then your system may have auto date hierarchies switched off. To switch it on, 
+go to File > Options and Settings > Options > Data Load (Current File) > Auto 
+Date/Time.
+
+4. Change the summarization for "Date created" to "Earliest", just for this 
+visualization (don't change the default).
+
+5. Change the default formatting of the "Date created" field so that it just shows month and year.
+
+6. Change the font size of the visualization.
+
+7. Change the colour of the header background.
+
+8. Change the format of the "Size" field so that it displays in Millions of bytes.
+
+9. Copy this visualization to create a second visualization, and alter this second visualization so that 
+it has just two columns: Year of "Date created", and "Size".
+
+10. Move the first visualization so that the center of it is half way down the page, 
+and move the second visualization so that the top of the visualizations are the same.

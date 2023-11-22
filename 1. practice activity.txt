@@ -1,0 +1,12 @@
+It's time for your first Practice Activity.
+
+1. If you haven't already downloaded the workbook "PowerBIData", please do so.
+
+2. Open up Power Bi, and use this workbook to "Get Data" from the spreadsheet "PA - CDs" 
+(not: "CDs", but "PA - CDs". This is a special version of the CDs spreadsheet for these Practical Activities).
+
+3. Click on the fields "File extension" and Size.
+
+4. Save this page to your local hard drive, and publish it to the Power BI service.
+
+Good luck. If you get stuck, then please watch the next video, when I will do this Practice Activity as well.

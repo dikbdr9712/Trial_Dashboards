@@ -1,0 +1,41 @@
+Let's practice making maps in Power BI. It looks like a long Practice Activity, but most of the steps are very short.
+
+1. Load the "PA - Maps" spreadsheet from the PowerBIData workbook.
+
+2. Create a Map with CountryRegionCode and then (as a second level) StateProvinceCode.
+
+3. Add Count of "AddressID" to Size - what extra information does this tell you?
+
+4. Click on "go to the next level in the hierarchy". Notice the dot in Argentina, South America - why do you think there is a dot there?
+
+5. Drill back up and then click on "Expand all down one level in the hierarchy". Is the Argentina dot removed?
+
+6. Enable the "Zoom buttons", but take "Auto zoom" off.
+
+7. Add in City and PostalCode into the Location, and zoom in on either:
+
+a. British Columbia, Canada (just north of Seattle, Washington),
+
+b. London, England,
+
+c. Paris, France, or
+
+d. Melbourne, Australia.
+
+8. Keep clicking on "Expand all down one level in the hierarchy" - what happens to the location of the dots?
+
+9. Click "Category labels" to On, and zoom in and out - how useful are they to you?
+
+10. Zoom out fully, and drill up to the Country level, and change the map to a "Filled Map".
+
+11. Change the Default color (in Data colors), so that instead of it being one color, it uses Conditional Formatting. Change it so that it has "Diverging" colors, from blue to a dark yellow to green.
+
+12. Click on "Expand all down one level in the hierarchy", and then a second time - what happens? And why?
+
+13. Change it back to a "Map", and use the Data Category to categorise the Country, State, City and Postal Code fields.
+
+14. Remove the locations, and create a Hierarchy called "Location" using CountryRegionCode, StateProvinceCode, City and PostCode. Hide the original fields, and the "Location" Hierarchy in the Location.
+
+15. Change it back to a "Map", and switch "Heat map" to On. Click on "Expand all down one level in the hierarchy", and then a second time - what happens?
+
+16. Change the Heat Map colors so that the 0%, 50% and 100% gradient stops are different shades of red.

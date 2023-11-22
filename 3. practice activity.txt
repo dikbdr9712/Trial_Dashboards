@@ -1,0 +1,29 @@
+Using the "PA - CDs" spreadsheet in the "PowerBIData" workbook, please have a
+go at the following activity:
+
+1. Create a Matrix, with Year of "Date created" in the Rows well, 
+"File extension" in the Columns well, and "Size" in the Values well. 
+Use the "alternating rows" style.
+
+2. Change the formatting of the "Size" in this visualization only so 
+that it displays in Millions.
+
+3. Add "Quarter" into the Rows well. Have a look at the different options in
+ Visual tools - Data/Drill - Data actions.
+
+4. Do you have a problem with seeing some of the row headers? 
+Please change the Font color of the Row Header.
+
+5. Add a second visualization, a Stacked Column Chart, with 
+"File extension" in the X-Axis (or Axis) well, and "Size" 
+in the Y-Axis (or Value) well.
+
+6. Add a third visualization, an Area Chart, with Year and Quarter of 
+"Date created" in the Axis well, and "Size" in the Value well. 
+If you are seeing only years, click on "Expand all down one level 
+in the hierarchy" to show both Year and Quarter.
+
+7. Edit the interactions, so that when you click on the first visualization, 
+it filters (not highlights) the second visualization.
+
+8. In the first visualization, click on the year 2010, and see what happens.

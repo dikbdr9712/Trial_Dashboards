@@ -1,0 +1,15 @@
+This Practice Activity continues from the dashboard that we created in Practice Activity 4.
+
+1. Rename the "Breakdown by month" page as "Breakdown".
+
+2. Change the area graph to a pie chart, and resize it so that it fits in the top-left hand corner.
+
+3. Create a scatter chart (which is really a bubble chart) which shows Day of "Date created" in the X Axis, Size in the Y-Axis, and Count of "#" in the Size. This graph should be in the top-right hand corner.
+
+4. Create a waterfall chart with Path in the Category and Size in the Values (in older versions, this was called the "Y axis"). This should go along the bottom of the page (but still leave room for the "Back" button).
+
+5. Go back to the Dashboard, and select "All years" from the Bookmarks.
+
+6. Drill through to the "Breakdown" page using the year 2007, and then the year 2014. Have a look at the waterfall chart both times - would it work better as a Treemap or a Donut chart?
+
+7. In the "Dashboard" page, see what the "Size by Month" chart would look like as a Ribbon, with "File extension" in the Legend, compared as a Stacked column chart. Which looks better?
